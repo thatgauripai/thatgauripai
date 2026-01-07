@@ -1,100 +1,18 @@
-# 👋 Hey there, I'm Gauri!  
+# 💫 About Me:
+Pre-final year CSE student who loves turning ideas into code. Passionate about problem-solving, fullstack, and building meaningful tech. Always learning, occasionally debugging life.
 
-✨ *Pre-final year CSE student | Code. Create. Debug. Repeat.* ✨  
 
-Welcome to my little corner of GitHub — where caffeine turns into code ☕💻,  
-bugs are temporary 🐛, and learning never stops 🚀  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauri-nandana-s-pai-3164b7306/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurinandanapai@gmail.com) 
 
-I’m passionate about building **clean, meaningful, and impactful tech** —  
-whether it’s software systems, security concepts, or ML-powered ideas.
-
----
-
-## 💁‍♀️ About Me  
-
-- 🎓 Computer Science Engineering (Pre-final year)  
-- 💻 Loves problem-solving, system design & experimenting with tech  
-- 🔐 Interested in **Cybersecurity & Digital Forensics**  
-- 🎨 When not coding: painting, music & old iconic movies 🎶🎬  
-- 🌱 Constantly learning, occasionally breaking things (on purpose)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thatgauripai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thatgauripai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgauripai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=thatgauripai&icon=0&color=2)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack (aka my toolbox 🧰)
-
-### 👩‍💻 Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
-- JavaScript  
-
-### 🌐 Web & App Development
-- HTML, CSS  
-- React  
-- Firebase  
-- MongoDB  
-
-### 📊 Databases
-- MySQL  
-- MongoDB  
-
-### 🤖 ML & Data
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Basic ML frameworks & models  
-
-### 🔐 Cybersecurity & Systems
-- Digital Forensics basics  
-- Malware analysis concepts  
-- Networking fundamentals  
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Linux  
-- Tinkercad  
-- AWS (Fundamentals ☁️)
-
----
-
-## 🚀 Featured Projects  
-
-✨ **Finance Tracker**  
-📌 A smart finance management system to track expenses, analyze spending & improve budgeting.  
-🔗 Repo: https://github.com/thatgauripai/FinanceTracker  
-
-✨ **Academic & System Design Projects**  
-- Logic circuit simulations  
-- Networking & OS concepts  
-- Cyber forensics case studies  
-
-> *More cool stuff loading… stay tuned 👀*
-
----
-
-## 🌐 Let’s Connect (I don’t bite 😄)
-
-- 💼 LinkedIn: *add-your-link-here*  
-- 🧑‍💻 GitHub: https://github.com/thatgauripai  
-- 📧 Email: *add-your-email-here*  
-
----
-
-## ✨ Fun Facts  
-
-- 🧠 Debugging is my cardio  
-- 🔥 `git commit -m "fixed it"` is my personality  
-- 😌 Works best under cozy blankets & deadline pressure  
-
----
-
-## ⭐ Final Note  
-
-If you like my work,  
-✨ **star a repo**, 🍴 **fork it**, or 💬 **reach out** —  
-collaboration is always welcome!
-
-Thanks for stopping by 💖  
-Happy Coding! 🚀  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
