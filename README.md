@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there!<br>I'm a pre-final year CSE student who loves turning ideas into code. Passionate about problem-solving, web development, and building meaningful tech. Always learning, occasionally debugging life. 
+## Hey there!
+<br>I'm a pre-final year CSE student who loves turning ideas into code. Passionate about problem-solving, web development, and building meaningful tech. Always learning, occasionally debugging life. 
 
 
 ## 🌐 Socials:
